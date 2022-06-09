@@ -1,3 +1,15 @@
-R5T.F0003 - Roslyn syntax functionality.
+R5T.F0003 - Roslyn syntax functionality (non-generation).
 
-GOALS:
+* For generation, initial, simple functionality, see: R5T.F0004.
+* For generation, initial, parse, simple functionality, see: R5T.F0005.
+* For generation, initial, parse, functionality, see: R5T.F0006.
+
+
+Allowed dependencies:
+
+* R5T.L0011 - Microsoft.CodeAnalysis NuGet package.
+* R5T.Magyar - .NET C# language extensions.
+* R5T.T0132 - Functionality marker attribute and interfaces.
+
+
+
